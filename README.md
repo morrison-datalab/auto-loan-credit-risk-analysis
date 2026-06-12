@@ -1,5 +1,5 @@
-U.S. Auto Loan Credit Risk Analysis | 2004 – Q1 2026
-Overview
+
+Overview:
 This analysis examines over two decades of U.S. auto loan origination and delinquency data sourced from the Federal Reserve Bank of New York. Applying period cohort analysis across four distinct credit cycles, this research investigates whether sustained subprime lending practices in the auto loan market represent a measurable and growing risk to consumer credit stability.
 Thesis
 Unlike the mortgage market — which underwent significant regulatory reform following the 2008 financial crisis — the auto loan market has continued to extend substantial credit to subprime and below-prime borrowers at pre-crisis volumes. As delinquency rates now exceed peak crisis levels without a triggering economic event, the data suggests structural deterioration rather than cyclical stress. Given the scale of subprime originations flowing into the asset-backed securities market quarterly, sustained credit deterioration in this segment may represent a contributing factor to broader consumer credit instability and potential economic headwinds.
