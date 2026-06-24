@@ -35,4 +35,4 @@ Federal Reserve Bank of New York — Household Debt and Credit Report
 
 - Microsoft Excel — data cleaning and cohort analysis
 - Microsoft Power BI — dashboard visualization
-- SQL — *(in progress)*
+
